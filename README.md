@@ -1,3 +1,3 @@
-# SD-Editor
+# MD-Editor
 HTML editor
 Using ckeditor
